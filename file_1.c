@@ -38,6 +38,11 @@ int func_add(int a, int b)
 
 	// one more change 
 
+<<<<<<< HEAD
 	return a+bia+b = c
-d+c = b
-a= b+c
+=======
+	return a+b;
+
+}
+>>>>>>> branch
+
